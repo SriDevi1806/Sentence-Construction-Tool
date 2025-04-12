@@ -132,31 +132,6 @@ sentence-construction-project/
 - Tablet and desktop optimized
 - Flexible layouts
 - Touch-friendly interface
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the build tool
-- JSON-server team for the mock backend
-- All contributors and users of this project
-
-## 📧 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/sentence-construction-project](https://github.com/yourusername/sentence-construction-project)
 =======
 # Sentance_Construction_Tool
 A fully functional and interactive sentence construction web application built with React + Vite, Tailwind CSS, and optionally TypeScript and shadcn/ui. This project was created as part of the CA MONK Frontend Internship Assignment and simulates a sentence completion test with word options, a timer, score tracking, and feedback screen.
