@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 # Sentence Construction Quiz App
 
 A modern, interactive quiz application built with React and TypeScript that helps users practice sentence construction with engaging animations and a user-friendly interface.
-
-![Sentence Construction Quiz](screenshot.png)
-
 ## 🌟 Features
 
 - **Interactive Quiz Interface**
